@@ -1,0 +1,8 @@
+C:\Users\Tino\Desktop\Tps c#\Tps escuela\Modelo prueba\obj\Debug\Modelo prueba.csproj.AssemblyReference.cache
+C:\Users\Tino\Desktop\Tps c#\Tps escuela\Modelo prueba\obj\Debug\Modelo prueba.csproj.CoreCompileInputs.cache
+C:\Users\Tino\Desktop\Tps c#\Tps escuela\Modelo prueba\bin\Debug\Modelo prueba.exe.config
+C:\Users\Tino\Desktop\Tps c#\Tps escuela\Modelo prueba\bin\Debug\Modelo prueba.exe
+C:\Users\Tino\Desktop\Tps c#\Tps escuela\Modelo prueba\bin\Debug\Modelo prueba.pdb
+C:\Users\Tino\Desktop\Tps c#\Tps escuela\Modelo prueba\obj\Debug\Modelo prueba.exe
+C:\Users\Tino\Desktop\Tps c#\Tps escuela\Modelo prueba\obj\Debug\Modelo prueba.pdb
+C:\Users\Tino\Desktop\Tps c#\Tps escuela\Modelo prueba\obj\Debug\Modelo prueba.exe.config
